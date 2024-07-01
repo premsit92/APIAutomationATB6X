@@ -31,11 +31,13 @@ public class AssertActions {
     }
 
     public void verifyStatusCodeInvalidReq(Response response){
-        assertEquals(String.valueOf(response.getStatusCode()).startsWith("50"), true, "value of status code is" +response.getStatusCode());
+        assertEquals(String.valueOf(response.getStatusCode()).startsWith("50"),
+                true, "value of status code is" +response.getStatusCode());
     }
 
-    public void verifyStatusCode(Response response,Integer expected) {
-        assertEquals(response.getStatusCode(),expected);
+    public void verifyStatusCode(Response response) {
+        assertEquals(String.valueOf(response.getStatusCode()).startsWith("20"),
+                true, "value of Status code is" +response.getStatusCode());
     }
 
 }

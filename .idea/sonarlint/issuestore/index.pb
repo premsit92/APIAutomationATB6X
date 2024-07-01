@@ -67,3 +67,8 @@ w
 G.idea/sonarlint/issuestore/d/4/d46769d36dc36d2da72f92928bf6a493603200f7,b\7\b7beee13869dc7e0dfc6d3a7887507e3e845c607
 w
 G.idea/sonarlint/issuestore/d/b/dbde557188b9251bdad6724305ec8ae904e11c0e,5\b\5b3899dd43b52f58cc14cf875f39ade6d6483cf8
+u
+Esrc/test/java/com/apiautomation/tests/crud/testCreateBookingPOST.java,b\5\b5cb72fc3a9ef2556604c9cd99e0cc5dc6750af4
+:
+
+testng.xml,5\2\522a7a4e21649af06297e31a9e33f13bb4fd3022
