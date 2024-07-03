@@ -1,4 +1,4 @@
-package com.apiautomation.tests.crud;
+package com.apiautomation.tests.crud.postTC;
 
 import com.apiautomation.base.BaseTest;
 import com.apiautomation.endpoints.APIConstants;

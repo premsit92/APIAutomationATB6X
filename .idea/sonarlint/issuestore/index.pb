@@ -72,3 +72,5 @@ Esrc/test/java/com/apiautomation/tests/crud/testCreateBookingPOST.java,b\5\b5cb
 :
 
 testng.xml,5\2\522a7a4e21649af06297e31a9e33f13bb4fd3022
+|
+Lsrc/test/java/com/apiautomation/tests/crud/postTC/testCreateBookingPOST.java,c\3\c35397fe5c617126776b4c3d1fa1db5594677fad

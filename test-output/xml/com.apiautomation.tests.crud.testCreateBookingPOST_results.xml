@@ -12,6 +12,6 @@
             <testcase
                 name="testCreateBooking"
                 time="4.145"
-                classname="com.apiautomation.tests.crud.testCreateBookingPOST">
+                classname="com.apiautomation.tests.crud.postTC.testCreateBookingPOST">
             </testcase>
 </testsuite>
