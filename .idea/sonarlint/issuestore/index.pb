@@ -74,3 +74,15 @@ Esrc/test/java/com/apiautomation/tests/crud/testCreateBookingPOST.java,b\5\b5cb
 testng.xml,5\2\522a7a4e21649af06297e31a9e33f13bb4fd3022
 |
 Lsrc/test/java/com/apiautomation/tests/crud/postTC/testCreateBookingPOST.java,c\3\c35397fe5c617126776b4c3d1fa1db5594677fad
+y
+Isrc/test/java/com/apiautomation/tests/crud/integration/TCintegration.java,8\5\85e399aa78a558599be70e2517b7732f64b932fd
+x
+Hsrc/test/java/com/apiautomation/tests/integration/TCIntegrationFlow.java,f\a\fab2ef827340e38fa503b87e9ce11414ca9477d6
+q
+Asrc/test/java/com/apiautomation/tests/crud/testCreateBooking.java,1\0\105ee4e1cdb51172dabb411bc535e9d7cdef20ca
+x
+Hsrc/test/java/com/apiautomation/tests/crud/sample/testCreateBooking.java,7\8\7850676f1aaa0a8db4a3e7fa695be6de7385d429
+{
+Ksrc/test/java/com/apiautomation/tests/integration/sample/TCIntegration.java,e\9\e916bc2fc951edf4422494a370430275bb7353d8
+i
+9src/test/java/com/apiautomation/utils/PropertyReader.java,7\c\7c4b4a6abd51167fe8671ffe879c504dfd4fb1c4

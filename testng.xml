@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 <suite name="All Test Suite">
-    <test verbose="2" preserve-order="true" name="C:/Users/Prem Kumar/IdeaProjects/APIAutomationATB6X">
+    <test verbose="2" preserve-order="true"
+          name="C:/Users/Prem Kumar/IdeaProjects/APIAutomationATB6X/src/test/java/com/apiautomation/tests/integration/TCIntegrationFlow.java">
         <classes>
-            <class name="com.apiautomation.tests.crud.postTC.testCreateBookingPOST">
-                <methods>
-                    <include name="testCreateBooking"/>
-                </methods>
+            <class name="com.apiautomation.tests.integration.TCIntegrationFlow">
+
             </class>
         </classes>
     </test>

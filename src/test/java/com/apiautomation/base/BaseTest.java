@@ -43,6 +43,27 @@ public class BaseTest {
     }
 
     public String getToken(){
-        return null;
+
+        //Setup the URL
+        requestSpecification = RestAssured
+                .given()
+                .baseUri(APIConstants.BASE_URL)
+                .basePath(APIConstants.AUTH_URL);
+
+       //Setting up the Payload
+        String payload = payloadManager.getAuthPayload();
+
+        //Getting the response
+        response = requestSpecification
+                .contentType(ContentType.JSON)
+                .body(payload)
+                .when().post();
+
+        //Extracting the token by Deserialization
+        String token = payloadManager.getTokenFromJSON(response.asString());
+
+        //Verify
+        return token;
+
     }
 }
