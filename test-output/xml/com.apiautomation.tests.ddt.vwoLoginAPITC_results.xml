@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="APIAutomationATB6X"
+           tests="2"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="4.247">
+    <properties></properties>
+
+
+
+            <testcase
+                name="vwoLoginAPI"
+                time="3.824"
+                classname="com.apiautomation.tests.ddt.vwoLoginAPITC">
+            </testcase>
+            <testcase
+                name="vwoLoginAPI"
+                time="0.423"
+                classname="com.apiautomation.tests.ddt.vwoLoginAPITC">
+            </testcase>
+</testsuite>

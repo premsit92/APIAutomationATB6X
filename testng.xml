@@ -5,7 +5,12 @@
           name="C:/Users/Prem Kumar/IdeaProjects/APIAutomationATB6X/src/test/java/com/apiautomation/tests/integration/TCIntegrationFlow.java">
         <classes>
             <class name="com.apiautomation.tests.integration.TCIntegrationFlow">
-
+                <methods>
+                    <include name="testCreateBooking"/>
+                    <include name="testVerifyBookingID"/>
+                    <include name="testUpdateBookingByID"/>
+                    <include name="testDeleteBookingByID"/>
+                </methods>
             </class>
         </classes>
     </test>
